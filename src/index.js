@@ -1,0 +1,1 @@
+window.InstaBox = require('./InstaBox').InstaBox

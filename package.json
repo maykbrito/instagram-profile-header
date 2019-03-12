@@ -1,0 +1,18 @@
+{
+  "name": "instagram-profile-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Mayk Brito",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "webpack-cli": "^3.2.3"
+  }
+}
