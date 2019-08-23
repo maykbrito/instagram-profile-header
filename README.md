@@ -12,3 +12,5 @@ A HTML + CSS + VANILLA JS to build a instagram header component scrapping data f
 `window.addEventListener('load', () => {
   new InstaBox("someInstagramUser")
 })`
+
+---
