@@ -10,9 +10,9 @@
   "author": "Mayk Brito",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^4.29.6",
-    "css-loader": "^2.1.1",
-    "style-loader": "^0.23.1",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.75.0",
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^5.0.1"
   }
 }
